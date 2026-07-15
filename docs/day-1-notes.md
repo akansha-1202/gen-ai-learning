@@ -25,9 +25,12 @@ These fields are nested — each one is a subset of the one outside it:
 - Here, instead of writing rules manually, we give data(input + output) to machine(algorithm).
 - Systems learn patterns from data instead of only following explicit rules
 - Improves performance with more/better data and training
-- But when we consider large data like images nd large paragraphs and reviews so here it fails.
+- But when we consider complex data like images, videos nd large paragraphs and reviews so here it fails, it only work good for text.
 - **Examples:** Netflix recommends movies, Amazon recommends products, Instagram suggests reels, Google Translate, Face Unlock.
 - INPUT + OUTPUT ==> Machine(Algorithm) ==> Machine learns patterns.
+
+![Machine Learning](./images/Machine_Learning.png)
+
 
 ---
 
