@@ -25,7 +25,7 @@ These fields are nested — each one is a subset of the one outside it:
 - Here, instead of writing rules manually, we give data(input + output) to machine(algorithm).
 - Systems learn patterns from data instead of only following explicit rules
 - Improves performance with more/better data and training
-- But when we consider complex data like images, videos nd large paragraphs and reviews so here it fails, it only work good for text.
+- But when we consider complex data like images, videos, voice and large paragraphs and human language so here it fails, it only work good for text.
 - **Examples:** Netflix recommends movies, Amazon recommends products, Instagram suggests reels, Google Translate, Face Unlock.
 - INPUT + OUTPUT ==> Machine(Algorithm) ==> Machine learns patterns.
 
@@ -37,12 +37,19 @@ These fields are nested — each one is a subset of the one outside it:
 ### 3. Deep Learning (DL)
 
 - A subset of ML
-- Uses multi-layer neural networks (the “deep” part)
+- Uses artificial neuron networks for learning complex patterns or data
 - Strong at complex, high-dimensional data: images, audio, text
 - Needs large data and compute compared to classic ML
-- **Examples:** image classification, speech recognition, object detection
-
+- **Examples:** Face Recognition, Speech Recognition, Google Lens,      Self-driving cars, ChatGPT, Gemini, Claude.
 ---
+
+#### Neuron Networks
+
+- Neuron Networks are inspired by how human brain processes information.    
+- A software that learns from mistakes
+![Neuron Network and Human Neuron](./images/Neuron%20Network%20&%20Human%20Neuron.png)
+
+![Neuron Network](./images/Neuron%20Network_2.png)
 
 ### 4. Generative AI (GenAI)
 
