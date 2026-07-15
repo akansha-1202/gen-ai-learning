@@ -12,19 +12,22 @@ These fields are nested — each one is a subset of the one outside it:
 
 ### 1. Artificial Intelligence (AI)
 - AI is the field of creating machines that can perform normally tasks that requires human intelligence.
-- Includes reasoning, planning, perception, language, decision-making
-- Can be rule-based (hard-coded logic) or data-driven
-- **Examples:** chess engines, recommendation systems, voice assistants, fraud detection
+- Includes reasoning, planning, perception, understanding language, decision-making, playing games
+- Can be rule-based (hard-coded logic) or data-driven means we manually defines set of rules to machines and on that basis it gives output.
+- It is 1950's concept.
+- **Examples:** Google Maps finding the fastest route, Chess-playing computer, recommendation systems, voice assistants like Siri, Alexa, spam email detection, fraud detection, 
 
 ---
 
 ### 2. Machine Learning (ML)
 
 - A subset of AI
+- Here, instead of writing rules manually, we give data(input + output) to machine(algorithm).
 - Systems learn patterns from data instead of only following explicit rules
 - Improves performance with more/better data and training
-- Common types: supervised, unsupervised, reinforcement learning
-- **Examples:** spam filters, house price prediction, customer churn models
+- But when we consider large data like images nd large paragraphs and reviews so here it fails.
+- **Examples:** Netflix recommends movies, Amazon recommends products, Instagram suggests reels, Google Translate, Face Unlock.
+- INPUT + OUTPUT ==> Machine(Algorithm) ==> Machine learns patterns.
 
 ---
 
