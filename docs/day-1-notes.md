@@ -41,6 +41,9 @@ These fields are nested — each one is a subset of the one outside it:
 - Strong at complex, high-dimensional data: images, audio, text
 - Needs large data and compute compared to classic ML
 - **Examples:** Face Recognition, Speech Recognition, Google Lens,      Self-driving cars, ChatGPT, Gemini, Claude.
+- There are 2 branches of Deep Learning :
+   - NLP(Natural Language Processing) : texts and speech
+   - CV(Computer Vision) : videos, images
 ---
 
 #### Neuron Networks
@@ -51,13 +54,37 @@ These fields are nested — each one is a subset of the one outside it:
 
 ![Neuron Network](./images/Neuron%20Network_2.png)
 
+### Difference b/w ML and DL
+
+![ML and DL](./images/ML-DL.png)
+
 ### 4. Generative AI (GenAI)
 
 - A subset of (mostly) deep learning
+- creates new content
+- uses LLM(Large Language Model) for creating content like chatgpt uses GPT which is a LLM.
+- LLM is made from Neuro Network.
 - Focuses on **creating** new content: text, images, audio, video, code
-- Learns the distribution of training data, then generates new samples
-- **Examples:** ChatGPT, DALL·E, Midjourney, music/code generators
+- It didn't search the internet live for that code. It generated the response based on patterns it learned during training.
+- **Examples:** ChatGPT, DALL·E, Midjourney, music/code generators, Github Copilot
 
+### Why is ChatGPT called Generative AI?
+  Bcz ChatGPT generates response. It doesn't select from database.
+
+---
+
+---
+### Relationship Between All Four
+
+Imagine you own a restaurant.
+
+AI = The whole restaurant.
+
+Machine Learning = The chefs.
+
+Deep Learning = Master chefs.
+
+Generative AI = A chef who can invent completely new recipes.
 ---
 
 ### Quick comparison
