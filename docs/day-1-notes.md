@@ -50,6 +50,7 @@ These fields are nested — each one is a subset of the one outside it:
 
 - Neuron Networks are inspired by how human brain processes information.    
 - A software that learns from mistakes
+
 ![Neuron Network and Human Neuron](./images/Neuron%20Network%20&%20Human%20Neuron.png)
 
 ![Neuron Network](./images/Neuron%20Network_2.png)
@@ -72,8 +73,6 @@ These fields are nested — each one is a subset of the one outside it:
   Bcz ChatGPT generates response. It doesn't select from database.
 
 ---
-
----
 ### Relationship Between All Four
 
 Imagine you own a restaurant.
@@ -85,6 +84,7 @@ Machine Learning = The chefs.
 Deep Learning = Master chefs.
 
 Generative AI = A chef who can invent completely new recipes.
+
 ---
 
 ### Quick comparison
