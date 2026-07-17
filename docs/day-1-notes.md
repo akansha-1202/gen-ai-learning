@@ -87,6 +87,11 @@ Generative AI = A chef who can invent completely new recipes.
 
 ---
 
+![Examples](./images/Examples%20of%20AI.png)
+
+![AI-Powered Features used Apps](./images/AI-Powered.png)
+
+
 ### Quick comparison
 
 | Field | What it is | Main idea | Example |
